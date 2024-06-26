@@ -1,0 +1,10 @@
+P001,Collar gato,90,Gato,Fat Cat,2000
+P002,Collar Perro,100,Perro,Fat Dog,2500
+P003,Juguete raton,100,Gato,Milu,1500
+P004,Juguete hueso chillòn,100,Perro,Milu,200
+P005,Alimento Premiun Gato,50,Gato,Pro Plan,25000
+P006,Alimento Premiun Perro,50,Perro,Bravery,50000
+P007,Rascador pequeño,70,Gato,Mochi,8000
+P008,Freebe,50,Perro,Dog It,3000
+P009,Antipulga Gato,70,Gato,Gato Limpio,3500
+P010,Antipulga Perro,70,Perro,Perro Limpio,5000
